@@ -1,3 +1,6 @@
+I am a trade economist interested in the intellectual property rights (IPRs) and dynamics of technology transfer through trade. Methodologically, I leverage on the recent advances in structural gravity models, standard panel data estimation techniques, and quasi-experimental methods for causal analysis to understand how IPRs influence the dynamics of international trade and economic development.
+
+
 # Connect with me
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/ridwansheikh/home?s=09)
